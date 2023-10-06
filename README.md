@@ -20,6 +20,13 @@
 ![Zaixing Sun's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaixing-sun&show_icons=true&theme=transparent&rank_icon=github)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zaixing-sun&theme=default&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+
+
 
 
 ---
