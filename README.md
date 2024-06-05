@@ -1,4 +1,4 @@
-### Hello World 👋 I'm Zaixing Sun a PhD candidate. 
+### Hi there 👋 I'm Zaixing Sun a PhD candidate. 
 
 [My homepage is here](https://zaixing-sun.github.io/).
  
