@@ -4,7 +4,7 @@
  
 - 👨🏻‍💻 I’m currently working on Resources and Tasks scheduling in Cloud Computing.
 - 🔬 I’m currently learning about <b>dynaminc workflow scheduling, genetic programming, cloud-fog-edge collaborative computing.</b>
-- 📫 How to reach me: Email me at zxa2ng.sun@gmail.com
+- 📫 How to reach me: Email me at zaixing.sun@micc.hitsz.edu.cn
 
 ### Paper
 * [Multi-Tree Genetic Programming Hyper-Heuristic for Dynamic Flexible Workflow Scheduling in Multi-Clouds](https://ieeexplore.ieee.org/abstract/document/10509784)
