@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Zaixing Sun, a PhD candidate. 
+### Hi there 👋 I'm Zaixing Sun. 
  
 - 👨🏻‍💻 I’m currently working on Resources and Tasks scheduling in Cloud Computing.
 - 🔬 I’m currently learning about <b>dynaminc workflow scheduling, genetic programming, cloud-fog-edge collaborative computing.</b>
