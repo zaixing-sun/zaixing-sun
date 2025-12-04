@@ -5,6 +5,7 @@
 - 📫 How to reach me: Email me at zaixing.sun@micc.hitsz.edu.cn
 
 ### Paper
+* [Cooperative Coevolution Genetic Programming for Dynamic Joint Workflow Scheduling and Container Scaling in Cloud-Fog Computing](https://ieeexplore.ieee.org/document/11267070)
 * [Multi-Tree Genetic Programming Hyper-Heuristic for Dynamic Flexible Workflow Scheduling in Multi-Clouds](https://ieeexplore.ieee.org/abstract/document/10509784)
 * [ET2FA: A Hybrid Heuristic Algorithm for Deadline-Constrained Workflow Scheduling in Cloud](https://ieeexplore.ieee.org/document/9851558)
 * [Efficient, Economical and Energy-saving Multi-Workflow Scheduling in Hybrid Cloud](https://www.sciencedirect.com/science/article/pii/S095741742300903X)
